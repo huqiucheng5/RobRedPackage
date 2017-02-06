@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RobRedPackage</string>
+    <string name="accessibility_description">这是一款leo开发的可以自动抢微信红包的软件</string>>
+    <string name="MyAcessibilityService_name">帮你抢红包</string>>
+    <string name="MyNotificationService_name">帮你抢红包</string>
+    <string name="open_app">打开[帮你抢红包]</string>>
+</resources>
